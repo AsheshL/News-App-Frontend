@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 148965,
+  "articles": [
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Karissa Bell",
+      "title": "Google applies its AI tech to reporting with 'Journalist Studio' tools",
+      "description": "Since introducing the Google News Initiative in 2018, the company has used the $300 million journalism project to fight disinformation and help publishers make money. Now, Google is also investing in journalism-specific software with Journalist Studio, a suit…",
+      "url": "https://www.engadget.com/google-journalist-studio-pinpoint-110047367.html",
+      "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-08%2Facabd040-bda7-11e9-9375-c6783a4b6790&client=amp-blogside-v2&signature=4aeb3dbfeaca84546c139762712a723537b5e55e",
+      "publishedAt": "2020-10-14T11:00:47Z",
+      "content": "That may not sound like an earth shattering use of Google’s AI tech, but having the tools to quickly analyze hundreds or thousands of documents could be a powerful boost to understaffed newsrooms. An… [+765 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Jon Fingas",
+      "title": "Google Assistant's driving mode for Android is nearly ready, one year later",
+      "description": "Google promised an Assistant driving mode for phones would arrive in mid-2019, but that clearly didn’t happen — over a year passed without any sign of it. It appears to be ready, though. XDA-Developers has discovered (via Android Police) that Google Assistant…",
+      "url": "https://www.engadget.com/google-assistant-driving-mode-215249421.html",
+      "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fecc8e980-10bf-11eb-bbdb-1c2748fc187a&client=amp-blogside-v2&signature=a65c8211d809206c075c135f92f34895c7e1726e",
+      "publishedAt": "2020-10-17T21:52:49Z",
+      "content": "Google promised an Assistant driving mode for phones would arrive in mid-2019, but that clearly didn’t happen — over a year passed without any sign of it. It appears to be ready, though. XDA-Develope… [+586 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Jon Fingas",
+      "title": "Portrait Light effects in Google Photos come to older Pixel phones",
+      "description": "You don’t have to buy a Pixel 4a 5G or Pixel 5 to take advantage of Google’s latest portrait wizardry. Android Police has discovered that Google Photos’ new Portrait Light feature is rolling out to older Pixel phones dating as far back as the Pixel 2 family. …",
+      "url": "https://www.engadget.com/portrait-light-google-photos-for-older-pixel-phones-151009815.html",
+      "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F9c7e52e0-12e4-11eb-bff7-3f288b99dcc0&client=amp-blogside-v2&signature=82948a5f16ade89a60e935f8b926b0af83a46e0e",
+      "publishedAt": "2020-10-20T15:10:09Z",
+      "content": "You don’t have to buy a Pixel 4a 5G or Pixel 5 to take advantage of Google’s latest portrait wizardry. Android Police has discovered that Google Photos’ new Portrait Light feature is rolling out to o… [+468 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Steve Dent",
+      "title": "Google Assistant can now play Spotify podcasts on your Nest speakers",
+      "description": "Users around the world can now use Google’s Assistant to play and control Spotify podcasts in English, Spotify has confirmed to Engadget. Until now, the voice assistant has only supported its own Google Podcasts, with third-party services limited to music str…",
+      "url": "https://www.engadget.com/google-assistant-can-play-podcasts-from-spotify-092046372.html",
+      "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fd9dcedb0-1378-11eb-9dbb-b088fd011912&client=amp-blogside-v2&signature=4066c03502c64b1130358b00508685580514c61d",
+      "publishedAt": "2020-10-21T09:20:46Z",
+      "content": "Users around the world can now use Google’s Assistant to play and control Spotify podcasts in English, Spotify has confirmed to Engadget. Until now, the voice assistant has only supported its own Goo… [+445 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Google Meet is getting breakout rooms, but only for some education customers to start",
+      "description": "Google’s Meet videoconferencing service is getting breakout rooms, but they’ll only be available to Google Workspace Enterprise for Education customers at first. With the feature, teachers and educators will be able to break their classes into smaller groups …",
+      "url": "https://www.theverge.com/2020/10/9/21509922/google-meet-breakout-rooms-enterprise-education-workspace-customers",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/BLAD8BQU4bvCfUrKfizzP7q4zCE=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10802091/acastro_180508_1777_google_IO_0003.jpg",
+      "publishedAt": "2020-10-09T21:33:26Z",
+      "content": "You can split a call into a maximum of 100 groups\r\nIllustration by Alex Castro / The Verge\r\nGoogles Meet videoconferencing service is getting breakout rooms, but theyll only be available to Google Wo… [+1377 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.com"
+      },
+      "author": "David Murphy",
+      "title": "How to Pretty Up Your Photos With Google's 'Portrait Lighting' on Pixel",
+      "description": "Who needs the newest Pixel, anyway? Google is now rolling out its “Portrait Lighting” feature—previously announced during the Pixel 4a 5G and Pixel 5 launches—to older devices. I just fired it up on my Google Pixel 3 XL, and found it a great tool for artifici…",
+      "url": "https://lifehacker.com/how-to-pretty-up-your-photos-with-googles-portrait-ligh-1845438311",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cvw0anm0vclpsqms4q4a.gif",
+      "publishedAt": "2020-10-21T19:00:00Z",
+      "content": "Who needs the newest Pixel, anyway? Google is now rolling out its Portrait Lighting featurepreviously announced during the Pixel 4a 5G and Pixel 5 launchesto older devices. I just fired it up on my G… [+2754 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Rishi Iyengar, CNN Business",
+      "title": "Why it's so hard to dethrone Google",
+      "description": "If you use the internet, Google is practically inescapable. This is most evident in how we search for almost everything online — so much so that \"Google\" is synonymous with search.",
+      "url": "https://www.cnn.com/2020/10/21/tech/google-antitrust-lawsuit-better-search/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201020190154-google-search-stock-super-tease.jpg",
+      "publishedAt": "2020-10-21T22:05:12Z",
+      "content": "San Francisco (CNN Business)If you use the internet, Google is practically inescapable. This is most evident in how we search for almost everything online so much so that \"Google\" is synonymous with … [+6914 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "James Vincent",
+      "title": "For $6.99 a month, Google will send you prints of your 10 best photos, as picked by AI",
+      "description": "Google Photos users will be able to sign up for the company’s “premium print series” in the coming weeks. For $6.99 a month, they’ll be sent 10 high-quality prints of photos they’ve taken, as picked by machine learning.",
+      "url": "https://www.theverge.com/2020/10/20/21524645/google-photos-order-physical-prints-subscription-price-ai-selection",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/RlPCrk1qKTagC-0XiKJBs0Iu0xw=/0x74:1338x775/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21974132/Screen_Shot_2020_10_04_at_3.06.52_PM.png",
+      "publishedAt": "2020-10-20T16:00:00Z",
+      "content": "Google Photos users can now also order same-day prints at Walgreens\r\nYour memories, as picked by an algorithm. \r\nImage: Google\r\nIf youre someone who never prints out any of the photos you take with y… [+1936 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Jon Fingas",
+      "title": "Pixel 5 teardown shows how a metal phone supports wireless charging",
+      "description": "Want to know how Google’s Pixel 5 supports wireless charging despite a predominantly metal body? Google explained the essence of how it works, but a video teardown at PBKReviews (via 9to5Google) has eliminated the mystery altogether. There’s a large cutout in…",
+      "url": "https://www.engadget.com/google-pixel-5-teardown-wireless-charging-211634647.html",
+      "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2Fd7ffa140-1c83-11eb-bfcf-0ffda215eb7c&client=amp-blogside-v2&signature=ba1e334c87082ac6e1b36ed6c51c3f87919db9e4",
+      "publishedAt": "2020-11-01T21:16:34Z",
+      "content": "Want to know how Google’s Pixel 5 supports wireless charging despite a predominantly metal body? Google explained the essence of how it works, but a video teardown at PBKReviews (via 9to5Google) has … [+698 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Igor Bonifacic",
+      "title": "This Chrome plugin brings Google's old icons back to your tabs",
+      "description": "If you’re not a fan of Google’s new icons, we have some good news. A new Chrome extension — spotted by Gizmodo, among others — lets you restore the tab icons for Gmail, Calendar, Meet and other Google services to their former glory. You can thank product desi…",
+      "url": "https://www.engadget.com/google-icons-chrome-plugin-211947324.html",
+      "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F773fd900-1ee1-11eb-bf67-10c109b0fade&client=amp-blogside-v2&signature=6054fcb8c57f8923006ed50266ad9904f77b9864",
+      "publishedAt": "2020-11-04T21:19:47Z",
+      "content": "If you’re not a fan of Google’s new icons, we have some good news. A new Chrome extension — spotted by Gizmodo, among others — lets you restore the tab icons for Gmail, Calendar, Meet and other Googl… [+589 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Google launches a suite of tech-powered tools for reporters, Journalist Studio",
+      "description": "Google is putting A.I. and machine learning technologies into the hands of journalists. The company this morning announced a suite of new tools, Journalist Studio, that will allow reporters to do their work more easily. At launch, the suite includes a host of…",
+      "url": "http://techcrunch.com/2020/10/14/google-launches-a-suite-of-tech-powered-tools-for-reporters-journalist-studio/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/07/6277209256_198cdbea86_o.jpg?w=648",
+      "publishedAt": "2020-10-14T14:05:14Z",
+      "content": "Google is putting A.I. and machine learning technologies into the hands of journalists. The company this morning announced a suite of new tools, Journalist Studio, that will allow reporters to do the… [+3948 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Google Photos revives its prints subscription service, expands same-day print options",
+      "description": "Google Photos is reviving its photo printing subscription service and introducing same-day prints. The company earlier this year had briefly tested a new program that used A.I. to suggest the month’s 10 best photos, which were then shipped to your home automa…",
+      "url": "http://techcrunch.com/2020/10/20/google-photos-revives-its-prints-subscription-service-expands-same-day-print-options/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-04-at-3.07.38-PM.png?w=573",
+      "publishedAt": "2020-10-20T16:00:34Z",
+      "content": "Google Photos is reviving its photo printing subscription service and introducing same-day prints. The company earlier this year had briefly tested a new program that used A.I. to suggest the month’s… [+3262 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Rhett Jones",
+      "title": "Conservatives Pull Google Into Their Plan to Let People Die",
+      "description": "The Great Barrington Declaration is the latest fringe evidence conservatives are using to bolster the argument that the U.S. just needs to embrace getting infected with covid-19. On Tuesday, the New York Times reported that White House officials are now citin…",
+      "url": "https://gizmodo.com/conservatives-pull-google-into-their-plan-to-let-people-1845371054",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/lj3khbdwntwecl5ouovw.jpg",
+      "publishedAt": "2020-10-14T17:41:00Z",
+      "content": "The Great Barrington Declaration is the latest fringe evidence conservatives are using to bolster the argument that the U.S. just needs to embrace getting infected with covid-19. On Tuesday, the New … [+7562 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "David Nield",
+      "title": "Everything You Need to Know About the New Google TV",
+      "description": "There’s a new Chromecast in town, only it’s not so much a Chromecast as a little Android TV dongle with Chromecast built in... but that’s not right either, because it’s running Google TV rather than Android TV... I know, I know. If you’re wondering exactly wh…",
+      "url": "https://gizmodo.com/everything-you-need-to-know-about-the-new-google-tv-1845435117",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/s4ykgec6clkjw3u33z88.jpg",
+      "publishedAt": "2020-10-29T18:30:00Z",
+      "content": "Theres a new Chromecast in town, only its not so much a Chromecast as a little Android TV dongle with Chromecast built in... but thats not right either, because its running Google TV rather than Andr… [+5318 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Joanna Nelius",
+      "title": "Nest Secure Is the Latest Google Device to Be Chopped",
+      "description": "Google seems to be on a big hack-and-slash spree this year, culling products—even beloved ones—in an attempt to streamline its offerings. The tech giant is known for abandoning or restructuring certain devices, services, and apps that didn’t take off the way …",
+      "url": "https://gizmodo.com/nest-secure-is-the-latest-google-device-to-be-chopped-1845418516",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/kiujmpghcfipml9obwqy.jpg",
+      "publishedAt": "2020-10-19T23:45:00Z",
+      "content": "Google seems to be on a big hack-and-slash spree this year, culling productseven beloved onesin an attempt to streamline its offerings. The tech giant is known for abandoning or restructuring certain… [+2367 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Joanna Nelius",
+      "title": "Google Made Some Improvements to Search, and I Have Concerns",
+      "description": "Google is taking a cue from the Apple-owned music recognition app Shazam by enabling a search feature that will recognize any song you hum to it—and you don’t need to hum on-key either, apparently. Hum to Search, along with a few other new features, is one of…",
+      "url": "https://gizmodo.com/google-made-some-improvements-to-search-and-i-have-con-1845384652",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/fjqm1pqeqifvzjjslshp.jpg",
+      "publishedAt": "2020-10-16T00:04:00Z",
+      "content": "Google is taking a cue from the Apple-owned music recognition app Shazam by enabling a search feature that will recognize any song you hum to itand you dont need to hum on-key either, apparently. Hum… [+5161 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Shoshana Wodinsky",
+      "title": "Finally, You Can Get Your Old Google Icons Back",
+      "description": "If you’re also one of those people desperate for some kind of good news today to counteract the hours of absolute horseshit you sat through last night, here’s a small win: you can officially get your old Google icons back. This nifty Chrome extension, develop…",
+      "url": "https://gizmodo.com/finally-you-can-get-your-old-google-icons-back-1845572013",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/v56hrxdevvx2csgbgj3j.jpg",
+      "publishedAt": "2020-11-04T18:21:00Z",
+      "content": "If youre also one of those people desperate for some kind of good news today to counteract the hours of absolute horseshit you sat through last night, heres a small win: you can officially get your o… [+1325 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Remy Tumin and Karen Cetinkaya",
+      "title": "Google, Early Voting, World Series: Your Tuesday Evening Briefing",
+      "description": "Here’s what you need to know at the end of the day.",
+      "url": "https://www.nytimes.com/2020/10/20/briefing/google-early-voting-world-series.html",
+      "urlToImage": "https://static01.nyt.com/images/2020/10/20/us/20evening-briefing-google/20evening-briefing-google-facebookJumbo.jpg",
+      "publishedAt": "2020-10-20T21:47:55Z",
+      "content": "10. And finally, a feast for the eyes in Alaskas Tongass National Forest.\r\nEncompassing 16.7 million acres of land, its both the largest national forest in America and the worlds largest intact tempe… [+680 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Greg Bensinger",
+      "title": "The Government's Lawsuit Is Unlikely to Dethrone Google",
+      "description": "The federal government’s lawsuit isn’t likely to derail the company’s market dominance.",
+      "url": "https://www.nytimes.com/2020/10/21/opinion/google-justice-department-lawsuit.html",
+      "urlToImage": "https://static01.nyt.com/images/2020/10/21/opinion/21bensigner-web/21bensigner-web-facebookJumbo-v3.jpg",
+      "publishedAt": "2020-10-21T23:00:10Z",
+      "content": "The 58-page complaint will be a distraction for years to come, potentially degrading Googles reputation. But if the way Google approaches its business operations is any guide, this will be anything b… [+2080 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Google confirms post-Election Day political ad ban, partners with AP on election results",
+      "description": "Google today announced several updates related to how it’s helping direct people to the polls, provide election results, and help people access real-time election news across its platforms and services, like Search, Assistant and YouTube. The company said it …",
+      "url": "http://techcrunch.com/2020/10/27/google-confirms-post-election-day-political-ad-ban-partners-with-ap-on-election-results/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/us-elections-results-static.max-1000x1000-1.png?w=400",
+      "publishedAt": "2020-10-27T14:13:39Z",
+      "content": "Google today announced several updates related to how it’s helping direct people to the polls, provide election results, and help people access real-time election news across its platforms and servic… [+3013 chars]"
+    }
+  ]
+}

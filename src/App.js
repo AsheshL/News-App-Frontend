@@ -1,13 +1,14 @@
 import './App.css';
-import AppLayout from './components/AppLayout'
+import AppHeader from './components/AppHeader'
+import SearchBox from './components/SearchBox'
+import ArticlesList from './components/ArticlesList'
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        News App
-      </header>
-      <AppLayout />
+      <AppHeader />
+      <SearchBox />
+      <ArticlesList />
     </div>
   );
 }

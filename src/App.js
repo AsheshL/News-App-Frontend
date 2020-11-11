@@ -7,7 +7,6 @@ import ArticlesList from './components/ArticlesList';
 function App() {
   const [search, setSearch] = useState('');
 
-  console.log('searchText', search);
   return (
     <div className="App">
       <AppHeader />

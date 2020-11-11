@@ -1,6 +1,6 @@
 const GET_ARTICLES = `
-query getArticles($query: String!){
-  getArticles(query: $query){
+query getArticles($query: String!, $page: Int){
+  getArticles(query: $query, page: $page){
     totalResults
     articles{
       title

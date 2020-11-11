@@ -1,24 +1,36 @@
-import React from 'react';
-import { TextField } from '@material-ui/core'
-import { makeStyles } from '@material-ui/core'
+import React, { useState } from 'react';
+import { TextField } from '@material-ui/core';
+import { makeStyles } from '@material-ui/core';
 
-const useStyles = makeStyles(()=> ({
+const useStyles = makeStyles(() => ({
   searchContainer: {
-    marginTop: 10
+    marginTop: 10,
   },
   searchText: {
-    width: 960
-  }
-}))
+    width: 960,
+  },
+}));
 
-function SearchBox() {
+function SearchBox({ search }) {
+  const classes = useStyles();
+  const [input, setInput] = useState('');
 
-  const classes = useStyles()
   return (
     <div className={classes.searchContainer}>
-    <TextField classes={{root: classes.searchText}} autoFocus id="news-search" label="Search the news" type="search" variant="outlined" />
+      <TextField
+        classes={{ root: classes.searchText }}
+        autoFocus
+        onKeyPress={(event) => {
+          if (event.key === 'Enter') search(input);
+        }}
+        onChange={(event) => setInput(event.target.value)}
+        id="news-search"
+        label="Search the news"
+        type="search"
+        variant="outlined"
+      />
     </div>
-  )
+  );
 }
 
-export default SearchBox
+export default SearchBox;

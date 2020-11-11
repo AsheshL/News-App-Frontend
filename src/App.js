@@ -1,14 +1,18 @@
 import './App.css';
-import AppHeader from './components/AppHeader'
-import SearchBox from './components/SearchBox'
-import ArticlesList from './components/ArticlesList'
+import React, { useState } from 'react';
+import AppHeader from './components/AppHeader';
+import SearchBox from './components/SearchBox';
+import ArticlesList from './components/ArticlesList';
 
 function App() {
+  const [search, setSearch] = useState('');
+
+  console.log('searchText', search);
   return (
     <div className="App">
       <AppHeader />
-      <SearchBox />
-      <ArticlesList />
+      <SearchBox search={setSearch} />
+      {search && <ArticlesList searchQuery={search} />}
     </div>
   );
 }

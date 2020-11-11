@@ -5,11 +5,14 @@ query getArticles($query: String!){
     articles{
       title
       author
+      url
+      urlToImage
+      content
       description
       publishedAt
     }
   }
 }
-`
+`;
 
-export default GET_ARTICLES
+export default GET_ARTICLES;

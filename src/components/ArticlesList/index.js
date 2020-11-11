@@ -1,13 +1,23 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { CircularProgress, List, Typography } from '@material-ui/core';
+import { Button, CircularProgress, List, Typography } from '@material-ui/core';
+import { makeStyles } from '@material-ui/styles';
 import ArticleItem from './ArticleItem';
 import axiosNewsAPiClient from '../../services/axiosClient';
 import GET_ARTICLES from '../../services/getArticles.query';
-// import data from './mockData.json';
+
+const useStyles = makeStyles(() => ({
+  scrollToTop: {
+    position: 'fixed',
+    right: 50,
+    bottom: 50,
+  },
+}));
 
 function ArticlesList({ searchQuery }) {
   const [articles, setArticles] = useState([]);
   const [page, setPage] = useState(1);
+
+  const classes = useStyles();
 
   const scrollRef = useRef();
 
@@ -62,6 +72,12 @@ function ArticlesList({ searchQuery }) {
       {articles.map((article, key) => (
         <ArticleItem key={key} data={article} />
       ))}
+      <Button
+        className={classes.scrollToTop}
+        onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+      >
+        Scroll To Top
+      </Button>
       {page >= 5 && <Typography variant="h6">End of Articles</Typography>}
     </List>
   );
